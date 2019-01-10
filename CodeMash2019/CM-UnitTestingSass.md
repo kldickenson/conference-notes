@@ -1,5 +1,5 @@
 # Unit Testing in Sass
-## Lindsey
+## Lindsey of Sparkbox @stananick
 
 Github/lindseywild/sass-unit-testing-presentation
 
