@@ -12,3 +12,5 @@
 1. [Webpack Encore](/CM-WebpackEncore.md)
 1. [Zero to Serverless](/CM-Zero-to-serverless.md)
 1. [A11y with React](/CM-a11y-withReact.md)
+
+[Presentation slides](https://docs.google.com/spreadsheets/d/1omYTaGvLAbkJ-AGphM-WO90iE5O5s5-1dG2srKbNFYo/edit?usp=sharing)
