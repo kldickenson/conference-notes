@@ -14,7 +14,7 @@ List of sessions:
 1. [Designing Progressive Web Apps - Grigsby](/Grigsby-ProgressiveWebApps.md) 
 1. [Data Basics - Martini](/Martini-DataBasics.md)
 1. [Inclusive UX - Featherstone](/Featherstone-InclusiveUX.md)
-1. [The Four Divine Beasts of Accessibility - Rupert/Rupert-Accessibility.md
+1. [The Four Divine Beasts of Accessibility - Rupert](/Rupert-Accessibility.md)
 1. [Designing an Intuitive Navigation - McGovern](/McGovern-InuitiveNavigation.md)
 
 [Slides](http://slides.aneventapart.com/chicago-2018/)
