@@ -15,3 +15,6 @@ See thumb drive for free link to online course
 [What You Need to Know About Open Source](/OpenSourceLegal.md)
 
 [GraphQL in a Serverless World](/GraphQLserverless.md)
+
+[Let's Get JAMing](/JAMming.md)
+
